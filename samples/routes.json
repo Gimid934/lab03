@@ -1,0 +1,14 @@
+{
+    "format_version": 1,
+    "items": [
+        {
+            "route_id": "10",
+            "name": "Центральный",
+            "category": "Автобус",
+            "launch_year": 2000,
+            "start": "Вокзал",
+            "end": "Парк",
+            "distance_km": 12.5
+        }
+    ]
+}
